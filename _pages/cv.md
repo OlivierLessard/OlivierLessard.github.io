@@ -16,6 +16,8 @@ Ph.D in Computer Engineering (Imitation learning),  MILA, 2026-...<br>
 M.A.Sc. in Computer Engineering (3D Computer Vision), Polytechnique Montreal, 2022<br>
 B.S. in Electrical Engineering, Polytechnique Montreal, 2021<br>
 
+Research interest: Computer Vision, Imitation learning, 3D Reconstruction, document analysis<br>
+
 ---
 
 Work experiences
