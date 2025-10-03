@@ -26,7 +26,7 @@ author:
   avatar           : "LinkedIn IMG_6997.JPG"
   name             : "Olivier"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at Mila"
+  bio              : "PhD Candidate at Mila"  # <img src='/images/mila.jpg' width='70' height='70'>
   location         : "Montreal"
   employer         : "Polytechnique Montreal"
   uri              : # URL
