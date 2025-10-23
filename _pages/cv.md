@@ -2,7 +2,7 @@
 layout: archive
 title:
 permalink: /
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
   - /cv
@@ -10,22 +10,30 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="display: flex; align-items: center; gap: 30px; margin-bottom: 30px; flex-wrap: wrap;">
+  <div style="text-align: left; max-width: 400px;">
+    <h2 style="margin-top: 0;"><strong>Olivier Lessard</strong></h2>
+    <p>Ph.D. Candidate in Computer Engineering<br>
+    Polytechnique Montreal, MILA<br>
+    <i class="fa fa-envelope"></i> olivier-lessard@videotron.ca<br>
+    <i class="fa fa-map-marker"></i> Montreal, QC, Canada</p>
+    <p><strong>Research Interests:</strong><br>
+    Computer Vision, Deep Learning, Robot Learning</p>
+  </div>
+  <div>
+    <img src='/images/LinkedIn IMG_6997.JPG' width='200' style='border-radius: 10px;'>
+  </div>
+</div>
+
 Education 
 ======
 
-Ph.D in Computer Engineering,  MILA, 2026-...<br>
-M.A.Sc. in Computer Engineering, Polytechnique Montreal, 2022<br>
-B.Eng. in Electrical Engineering, Polytechnique Montreal, 2021<br>
+Ph.D    Computer Engineering,   2026-...<br>
+M.A.Sc. Computer Engineering,   2022<br>
+B.Eng.  Electrical Engineering, 2021<br>
 
 <img src='/images/mila.jpg' width='70' height='70'>
 <img src='/images/polymtl.png' width='200' height='50'><br>
-
-Research interest
-======
-
-Computer Vision, Imitation learning, 3D Reconstruction, document analysis<br>
-
----
 
 Publications
 ======
