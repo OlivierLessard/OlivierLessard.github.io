@@ -59,6 +59,13 @@ Talks
 
 Work experiences
 ======
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:15px;">
+  <img src='/images/HQ.png' alt='HQ Logo' style='border-radius: 10px; width:200px; max-width:100%; height:auto;'>
+  <img src='/images/enphase.png' alt='Enphase Logo' style='border-radius: 10px; width:200px; max-width:100%; height:auto;'>
+  <img src='/images/IMDS.jpg' alt='IMDS Logo' style='border-radius: 10px; width:150px; max-width:100%; height:auto;'>
+  <img src='/images/humanitas.jpg' alt='Humanitas Logo' style='border-radius: 10px; width:100px; max-width:100%; height:auto;'>
+</div>
+
 **Research Engineer**, Humanitas Solutions, 2025
   * Build AI agents using LLMs, NVIDIA DeepStream, sensor fusion, model optimization for autonomous robots
   * Integrate visual odometry and SLAM solutions into to a fleet of drone simulation (Gazebo)
